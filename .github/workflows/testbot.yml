@@ -1,4 +1,4 @@
-name: Run TestBot
+name: Run TestBot2
 
 on:
   workflow_dispatch:
@@ -274,4 +274,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: testbot-results-${{ github.run_number }}
-          path: results/
+          path: results/ 
