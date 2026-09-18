@@ -1,0 +1,53 @@
+{
+  "name": "Premium Grid - AHQ PROD - Web - WIN11 - Chrome",
+  "testBotId": "380b559d-70ea-44e7-bc0f-f3b64bb21fee",
+  "executionConfiguration": {
+    "baseUrl": "b532d957-056f-4a9b-bf67-4ce2026ebdab",
+    "browser": "Chrome",
+    "browserVersion": "151",
+    "closeBrowserAfterEachExecution": false,
+    "customProperties": [
+      {
+        "customPropertyId": "436d416f-4cfb-47cf-b9f0-67c41dca6a4d",
+        "name": "Email",
+        "value": "Kiaraforcadilla0+ahq2.0siteadmin@gmail.com",
+        "type": "0"
+      },
+      {
+        "customPropertyId": "f17a1ce3-c744-4940-85f6-4204e74c2f92",
+        "name": "Password",
+        "value": "09187341007",
+        "type": "0"
+      }
+    ],
+    "type": "Web",
+    "gridId": "4dbcc880-c515-46ca-b1ca-b3592a15a793",
+    "excludeToBeRepairedTest": false,
+    "gridUrl": "",
+    "gridUrlForExecution": "",
+    "osType": "WIN11",
+    "resolution": "1600x1200",
+    "screenshotAfterEachStep": false,
+    "screenshotOnError": false,
+    "screenshotOnFinish": false,
+    "timeout": 30,
+    "waitForElementTimeout": 10,
+    "delayBetweenSteps": 0,
+    "numberOfRetries": 0,
+    "browserConfigs": [
+      {
+        "osType": "WIN11",
+        "browser": "Chrome",
+        "browserVersion": "151",
+        "resolution": "1600x1200",
+        "gridId": "4dbcc880-c515-46ca-b1ca-b3592a15a793",
+        "gridUrl": null,
+        "profileId": null,
+        "profileName": null
+      }
+    ],
+    "targetBranchName": "main"
+  }
+} 
+
+
